@@ -1,5 +1,4 @@
 # City-and-hotel-management-project
-# City and Hotel Management System
 
 This project is a Java-based city and hotel management system developed using EJB in Eclipse. It allows users to perform CRUD operations on cities and hotels, as well as filter hotels by cities they belong to. The project consists of four main modules: ISICEJBEAR, ISICEJBClient, ISICEJBServer, and ISICEJBWeb.
 
